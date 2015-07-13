@@ -2,10 +2,10 @@
 # -*- coding: UTF-8 -*-
 
 #. Pick your delimiter of choice
-#BOP_DELIM=:
+#BOPH_DELIM=:
 
 #. Enable the modules of your choice
-#declare -a BOP_MODULES=(
+#declare -a BOPH_MODULES=(
 #    spacer
 #    cdbm
 #    git
